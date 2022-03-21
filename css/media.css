@@ -174,7 +174,7 @@
 }
 @media(max-width:400px){
   .project{
-    height: 900px;
+    height: 1000px;
   }
   .menu_item1{
     font-size: 15px;
@@ -199,7 +199,7 @@ header{
 }
 @media(max-width:350px){
   .project{
-    height: 800px;
+    height: 900px;
   }
   .header_content_text2{
     max-height: 320px;
@@ -212,7 +212,7 @@ header{
 }
 @media(max-width:300px){
   .project{
-    height: 750px;
+    height: 900px;
   }
   header{
     height: 1200px;

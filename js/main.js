@@ -6,7 +6,7 @@ function nav_1(){
 };
 function nav_3(){
     window.scrollTo({
-        top:1500,
+        top:4000,
         behavior:"smooth"
     });
 };
