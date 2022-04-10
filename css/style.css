@@ -96,7 +96,7 @@ header{
     display: flex;
 }
 .header_content_text{
-    padding-right: 115px;
+    padding-right: 80px;
 }
 .header_content_text1{
     font-style: normal;
@@ -125,10 +125,11 @@ header{
     color: #FFFFFF;
 }
 .header_content_img{
-    border-radius: 15%;
+    border-radius: 5%;
     height: 400px;
-    width: 300px;
+    width: 500px;
 }
+
 /*2*/
 .project{
   height: 950px;
